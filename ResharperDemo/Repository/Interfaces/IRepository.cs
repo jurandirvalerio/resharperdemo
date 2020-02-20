@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Repository.Interfaces
 {
+	// modificador inconsistente
 	interface IRepository
 	{
 	}

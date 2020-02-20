@@ -45,7 +45,7 @@
     <Compile Include="ConstrutorService.cs" />
     <Compile Include="ImportarReferenciaService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RefatoracaoService.cs" />
+    <Compile Include="RefatoracaoImcService.cs" />
     <Compile Include="RenomearClasse.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
