@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace Domain.SepararClasses
 {
-	class ClasseOrigem
+	// ctrl r + ctrl + o => move
+	public class ClasseOrigem
 	{
 		public int Codigo { get; set; }
 	}
 
-	class ClasseDerivada : IClasseDerivada
+	public class ClasseDerivada : IClasseDerivada
 	{
 		public int Codigo { get; set; }
 	}
 
-	interface IClasseDerivada
+	public interface IClasseDerivada
 	{
 		int Codigo { get; set; }
 	}
