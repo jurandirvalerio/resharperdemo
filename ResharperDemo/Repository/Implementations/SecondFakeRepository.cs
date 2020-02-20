@@ -5,8 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Repository.Interfaces;
 
-namespace Repository.Implementations
+namespace Repository.Implementa
 {
+	// Namespace errado
+	// Excluir referências sem uso
 	class SecondFakeRepository : IRepository
 	{
 		

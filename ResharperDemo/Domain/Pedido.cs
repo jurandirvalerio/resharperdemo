@@ -2,10 +2,10 @@
 
 namespace Domain
 {
-	public class Order
+	public class Pedido
 	{
 		public Guid Guid { get; set; }
-		public DateTime Date { get; set; }
+		public DateTime Data { get; set; }
 
 		//ctorp
 	}
