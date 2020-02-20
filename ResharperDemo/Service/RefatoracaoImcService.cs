@@ -12,6 +12,9 @@ namespace Service
 		{
 			// ctrl + shift + r 
 			// inline method
+			// extrair interface
+			// colocar construtor com campos
+			// extrair superclasse
 			float quadradoAltura = altura * altura;
 			return peso / quadradoAltura;
 		}
