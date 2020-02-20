@@ -11,7 +11,7 @@ namespace Domain
 		public int Nome { get; set; }
 		public DateTime DataAniversario { get; set; }
 		// Extrair classe
-		// ctrl + r + ctrl + o
+		// ctrl + r + ctrl + o = move
 		public string Cep { get; set; }
 		public string Cidade { get; set; }
 

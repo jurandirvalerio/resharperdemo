@@ -1,5 +1,4 @@
-﻿using Domain.Usuarios;
-using System;
+﻿using System;
 
 namespace Domain
 {
