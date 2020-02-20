@@ -45,7 +45,7 @@
     <Compile Include="Implementations\SecondFakeRepository.cs" />
     <Compile Include="Interfaces\IFirstFakeReopsitory.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
-    <Compile Include="Interfaces\WrongNameConventionRepository.cs" />
+    <Compile Include="Interfaces\NomeForaDaConvencaoRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

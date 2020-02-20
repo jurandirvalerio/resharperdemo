@@ -41,12 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassToRename.cs" />
+    <Compile Include="ClasseParaRenomear.cs" />
     <Compile Include="ConstrutorService.cs" />
-    <Compile Include="ImportReferenceService.cs" />
+    <Compile Include="ImportarReferenciaService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RefactorService.cs" />
-    <Compile Include="RenameClass.cs" />
+    <Compile Include="RefatoracaoService.cs" />
+    <Compile Include="RenomearClasse.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

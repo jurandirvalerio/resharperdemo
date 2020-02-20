@@ -3,13 +3,13 @@ using System;
 
 namespace Service
 {
-	public class ImportReferenceService
+	public class ImportarReferenciaService
 	{
 		private List<int> intSet;
 		private Hash hash;
-		private WrongNameConventionRepository _wrongNameConventionRepository;
+		private NomeForaDaConvencaoRepository _nomeForaDaConvencaoRepository;
 
-		public ImportReferenceService(string unused)
+		public ImportarReferenciaService(string parametroSemUso)
 		{
 			
 		}
