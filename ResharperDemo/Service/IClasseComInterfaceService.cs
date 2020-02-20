@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Service
 {
+	// Converter interface para classe abstrata
 	public interface IClasseComInterfaceService
 	{
 		int Total();
