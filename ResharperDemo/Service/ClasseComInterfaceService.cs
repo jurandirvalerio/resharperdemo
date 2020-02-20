@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository.Interfaces
+namespace Service
 {
-	// modificador inconsistente
-	interface IRepository
+	class ClasseComInterfaceService : IClasseComInterfaceService
 	{
-
 	}
 }

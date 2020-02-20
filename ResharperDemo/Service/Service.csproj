@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClasseComInterfaceService.cs" />
     <Compile Include="ClasseParaRenomear.cs" />
     <Compile Include="ConstrutorService.cs" />
+    <Compile Include="IClasseComInterfaceService.cs" />
     <Compile Include="ImportarReferenciaService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RefatoracaoImcService.cs" />
