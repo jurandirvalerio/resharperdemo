@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-	class Pessoa
+	public class Pessoa
 	{
 		public int Nome { get; set; }
 		public DateTime DataAniversario { get; set; }

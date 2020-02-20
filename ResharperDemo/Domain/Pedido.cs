@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Usuarios;
+using System;
 
 namespace Domain
 {
@@ -6,6 +7,8 @@ namespace Domain
 	{
 		public Guid Guid { get; set; }
 		public DateTime Data { get; set; }
+
+		public Pessoa Pessoa { get; set; }
 
 		//ctorp
 	}
