@@ -1,2 +1,2 @@
 # Resharper Demo
-Repository made for demonstrate some Jetbrains Resharper features
+Projeto com o intuito de demonstrar algumas funções da ferramenta da JetBrains Resharper
